@@ -8,6 +8,8 @@ Language: Swift
 
 Test can run by Base Test Class.
 
+My test cases folder is: **TAUUITests**
+
 # XCTUTest-TAU (Test Automation University) Course 
 
 This repo contains the course material for the Test Automation University Course `Introduction to iOS Automation with XCUITest` 
