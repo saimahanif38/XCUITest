@@ -10,9 +10,7 @@ Test can run by Base Test Class.
 
 My test cases folder is: **TAUUITests**
 
-# XCTUTest-TAU (Test Automation University) Course 
-
-This repo contains the course material for the Test Automation University Course `Introduction to iOS Automation with XCUITest` 
+This repo contains the `iOS Automation with XCUITest` 
 
 # Pre-requisite 
 
@@ -27,8 +25,5 @@ In order to follow this course, you will need
 
 # How to use this repository 
 
-The course is divided into the 8 different chapters and each chapter has an associated branch. The master branch has just the basic app without any UI tests. 
-
 * `Master`    Branch -- Just Basic app with unit tests. And UI Test case with some funtionality and POM.
 
-You need to checkout the branch depending on the chapter you are on.
